@@ -5,7 +5,7 @@ html, body {
 body {
   display: flex;
   align-items: center;
-  /*background-color: #E0E0E0;*/
+  background-color: #E0E0E0;
   justify-content: center;
 }
 
